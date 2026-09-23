@@ -1,10 +1,14 @@
 p{
-    color:red;(79,127,182)
-    margin-left: 5%;
-    font::content
+    color:rgb(0, 174, 255);(79,127,182)
+    margin-left:1%;
+    font:20px; italic
 }
 .uva{
-    color:blue;
-    margin-left:5% ;
-    font:italic
+    color:red;
+    margin-left:1% ;
+    font:20px;italic
+}
+
+.suspeito{
+align-items: ;
 }
